@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://honorlin.github.io/sitemap.xml 

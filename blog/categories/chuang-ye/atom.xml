@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 創業 | Honor 創業筆記]]></title>
+  <link href="http://honorlin.github.io/blog/categories/chuang-ye/atom.xml" rel="self"/>
+  <link href="http://honorlin.github.io/"/>
+  <updated>2015-01-25T00:29:50+08:00</updated>
+  <id>http://honorlin.github.io/</id>
+  <author>
+    <name><![CDATA[HonorLin]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[關於部落格]]></title>
+    <link href="http://honorlin.github.io/blog/2015/01/24/about-this-blog/"/>
+    <updated>2015-01-24T23:01:44+08:00</updated>
+    <id>http://honorlin.github.io/blog/2015/01/24/about-this-blog</id>
+    <content type="html"><![CDATA[<p>用這個部落格做為創業的心得到整理和成長分享</p>
+]]></content>
+  </entry>
+  
+</feed>
