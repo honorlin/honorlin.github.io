@@ -4,7 +4,7 @@
   <title><![CDATA[Honor 創業筆記]]></title>
   <link href="http://honorlin.github.io/atom.xml" rel="self"/>
   <link href="http://honorlin.github.io/"/>
-  <updated>2015-01-25T01:10:36+08:00</updated>
+  <updated>2015-01-25T01:46:04+08:00</updated>
   <id>http://honorlin.github.io/</id>
   <author>
     <name><![CDATA[HonorLin]]></name>
@@ -14,11 +14,40 @@
 
   
   <entry>
+    <title type="html"><![CDATA[創業需要夢想]]></title>
+    <link href="http://honorlin.github.io/blog/2015/01/25/chuang-ye-xu-yao-meng-xiang/"/>
+    <updated>2015-01-25T01:36:02+08:00</updated>
+    <id>http://honorlin.github.io/blog/2015/01/25/chuang-ye-xu-yao-meng-xiang</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://honorlin.github.io/images/s0ulsurfing-isleofwight-isle-2627866-h.jpg" width="600"></p>
+
+<p>創業需要夢想</p>
+
+<p>我在2011年10月成立 善活科技有有限公司 <a href="http://www.shanhuo.com.tw/">http://www.shanhuo.com.tw/</a></p>
+
+<p>專門提供軟體系統和iOS,Android手機APP的客製化服務</p>
+
+<p>在那時對創業是一竅不通</p>
+
+<p>但是只懂技術的我還是一投進入這個領域</p>
+
+<p>現在的我發現創業是一個自我挑戰,自我成長的過程,但是會面臨很多的挑戰</p>
+
+<p>和突破,唯有不斷的自我成長,挑戰自我,如果一直在乎眼前的得失,會無法繼續走下去</p>
+
+<p>在善活科技有有限公司運作兩年創業的過程中</p>
+
+<p>不只需要懂技術,還需要懂公司運作的相關事情</p>
+
+<p>每天必須逼著自己自我成長</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[創業起步]]></title>
     <link href="http://honorlin.github.io/blog/2015/01/25/chuang-ye-qi-bu/"/>
     <updated>2015-01-25T00:45:40+08:00</updated>
     <id>http://honorlin.github.io/blog/2015/01/25/chuang-ye-qi-bu</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://honorlin.github.io/images/refresh-miami-zip33134-95682-h.jpg"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://honorlin.github.io/images/refresh-miami-zip33134-95682-h.jpg" width="600"></p>
 
 <p>2011年8月就在我研究畢業的那一年, 開始籌劃創業這件事情</p>
 ]]></content>
@@ -29,7 +58,7 @@
     <link href="http://honorlin.github.io/blog/2015/01/24/about-this-blog/"/>
     <updated>2015-01-24T23:01:44+08:00</updated>
     <id>http://honorlin.github.io/blog/2015/01/24/about-this-blog</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://honorlin.github.io/images/dealmaker-media-losangeles-2048580-h.jpg"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="http://honorlin.github.io/images/dealmaker-media-losangeles-2048580-h.jpg" width="600"></p>
 
 <p>用這個部落格做為創業心得和成長分享</p>
 ]]></content>
